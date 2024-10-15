@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "216065272354",
+    "project_id": "stockme-117",
+    "storage_bucket": "stockme-117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216065272354:android:a2da4eb1ffc6936d6cb87b",
+        "android_client_info": {
+          "package_name": "com.jay.stockeme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8afi3f2goNkpZeCOBpm7sjo21s20jjOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
